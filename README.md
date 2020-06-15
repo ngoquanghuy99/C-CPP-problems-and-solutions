@@ -1,2 +1,2 @@
-# C-problems-PTIT-THCS2-
+# C problems 
 These problems are now available on the site medianews.vn
