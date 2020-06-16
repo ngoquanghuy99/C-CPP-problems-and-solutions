@@ -1,2 +1,3 @@
 # C CPP problems and solutions 
-These problems are now available on the site medianews.vn
+</p> These problems are now available on medianews.vn </p>
+</p> Contact Mr Hung for ID and password: hungdn@ptit.edu.vn </p>
